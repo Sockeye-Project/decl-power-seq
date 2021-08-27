@@ -1,0 +1,13 @@
+# Python
+venv*
+__pycache__
+*.pyc
+
+# Generated data
+set_events.txt
+enzian_sequence.py
+
+results/*
+plots/*
+
+!**/.gitkeep
